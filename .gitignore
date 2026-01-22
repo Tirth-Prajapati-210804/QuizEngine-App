@@ -1,7 +1,11 @@
-__pycache__/
-*.pyc
-venv/
-.idea/
-.vscode/
-*.db
-.git
+    __pycache__/
+    *.pyc
+    *.pyo
+    *.pyd
+    *.db
+    *.sqlite3
+    .vscode/
+    .idea/
+    *.log
+    .DS_Store
+    Thumbs.db
